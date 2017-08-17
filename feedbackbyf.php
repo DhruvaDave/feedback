@@ -22,14 +22,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-2">
-                <div class="fixed-section" data-spy="affix" data-offset-top="340">
-                    <ul>
-						<li><a href="faculty_reg.php">Faculty Registration</a></li>
-						<li><a href="sreg.php">Student Registration</a></li>
-						<li><a href="sf.php">Subject Allocation</a></li>
-						
-                    </ul>
-                </div>
+
             </div>
     
 <div class="col-md-8 col-md-offset-1">
